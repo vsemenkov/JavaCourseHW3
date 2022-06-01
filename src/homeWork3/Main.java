@@ -6,6 +6,9 @@ public class Main {
         printRobotDanceTypes(robot);
         //OR
         printRobotDanceTypes(new FolkDancingRobot());
+
+        var robot1 = new JazzDancingRobot();
+        printRobotDanceTypes(robot1);
     }
 
     private static void printRobotDanceTypes(DancingRobot robot){
