@@ -1,4 +1,4 @@
-package homeWork3;
+package homeWork3.robots;
 
 public class JazzDancingRobot extends DancingRobot{
     //pereopredelim metod

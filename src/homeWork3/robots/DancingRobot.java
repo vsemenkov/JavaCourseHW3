@@ -1,4 +1,4 @@
-package homeWork3;
+package homeWork3.robots;
 
 public abstract class DancingRobot {
     public String getDefaultDanceType(){

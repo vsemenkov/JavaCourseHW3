@@ -1,5 +1,10 @@
 package homeWork3;
 
+import homeWork3.robots.BalletDancingRobot;
+import homeWork3.robots.DancingRobot;
+import homeWork3.robots.FolkDancingRobot;
+import homeWork3.robots.JazzDancingRobot;
+
 public class Main {
     public static void main(String[] args){
         DancingRobot robot = new BalletDancingRobot();
