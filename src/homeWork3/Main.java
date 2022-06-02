@@ -36,5 +36,11 @@ public class Main {
         Circle square2 = new Circle(20);
         System.out.println("Circle square is: " + square2.getSquare());
         System.out.println("Circle radius is: " + square2.getRadius());
+
+        System.out.println("=========================");
+        Circle square3 = new Circle(10);
+        System.out.println("Circle radius is: " + square3.getRadius());
+        square3.setRadius(5);
+        System.out.println("Circle radius is: " + square3.getRadius());
     }
 }

@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d236856-e033-4293-9a91-3d636d6c82e6" name="Changes" comment="homework3">
-      <change afterPath="$PROJECT_DIR$/src/homeWork3/square/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork3/square/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homeWork3/square/Square.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homeWork3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homeWork3/square/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork3/square/Circle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.homeWork3.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654097521378</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="homework3">
+      <created>1654112496409</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654112496409</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
