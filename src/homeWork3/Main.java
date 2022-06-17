@@ -20,6 +20,18 @@ public class Main {
 
 
         showSquare();
+
+        //annotation and reflection
+        Class<Circle> circleClass = Circle.class;
+        System.out.println(circleClass.getName());
+
+        var annotations = circleClass.getAnnotations();
+        for (var annotation:annotations){
+            System.out.println(annotation.toString());
+        }
+
+        System.out.println("===============================");
+        printRadius(new Circle(10));
     }
 
     private static void printRobotDanceTypes(DancingRobot robot){
@@ -42,5 +54,14 @@ public class Main {
         System.out.println("Circle radius is: " + square3.getRadius());
         square3.setRadius(5);
         System.out.println("Circle radius is: " + square3.getRadius());
+    }
+
+    private static void printRadius(Circle circle){
+        Class<?extends  Circle> aClass =circle.getClass();
+        var annotation = aClass.getAnnotation(Deprecated.class);
+        System.out.println(annotation);
+
+        System.out.println("radius is: " + circle.getRadius());
+
     }
 }

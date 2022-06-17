@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d236856-e033-4293-9a91-3d636d6c82e6" name="Changes" comment="homework3">
+      <change afterPath="$PROJECT_DIR$/src/homeWork3/annotations/MyAnnotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homeWork3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homeWork3/square/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeWork3/square/Circle.java" afterDir="false" />
@@ -110,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654112496409</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="homework3">
+      <created>1654158475913</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654158475913</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

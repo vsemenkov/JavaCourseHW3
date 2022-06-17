@@ -1,5 +1,9 @@
 package homeWork3.square;
 
+import homeWork3.annotations.MyAnnotation;
+
+@MyAnnotation
+@Deprecated
 public class Circle implements Square {
     private double radius;
 
